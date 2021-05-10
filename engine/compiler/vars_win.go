@@ -22,6 +22,7 @@ var hostVars = []string{
 	"COMPUTERNAME",
 	"ComSpec",
 	"DriverData",
+	"LOCALAPPDATA",
 	"OS",
 	"Path",    // required by powershell
 	"PATHEXT", // required by powershell
