@@ -7,7 +7,7 @@ package resource
 import (
 	"testing"
 
-	"github.com/drone/runner-go/manifest"
+	"github.com/joseluisq/runner-go/manifest"
 )
 
 func TestLookup(t *testing.T) {

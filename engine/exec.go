@@ -12,8 +12,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/drone/runner-go/environ"
-	"github.com/drone/runner-go/logger"
+	"github.com/joseluisq/runner-go/environ"
+	"github.com/joseluisq/runner-go/logger"
 )
 
 // New returns a new engine.

@@ -15,9 +15,9 @@ import (
 	"github.com/drone-runners/drone-runner-exec/engine/compiler"
 	"github.com/drone-runners/drone-runner-exec/engine/resource"
 	"github.com/drone/envsubst"
-	"github.com/drone/runner-go/environ"
-	"github.com/drone/runner-go/manifest"
-	"github.com/drone/runner-go/secret"
+	"github.com/joseluisq/runner-go/environ"
+	"github.com/joseluisq/runner-go/manifest"
+	"github.com/joseluisq/runner-go/secret"
 
 	"gopkg.in/alecthomas/kingpin.v2"
 )

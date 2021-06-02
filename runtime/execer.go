@@ -13,9 +13,9 @@ import (
 	"github.com/drone-runners/drone-runner-exec/engine"
 	"github.com/drone-runners/drone-runner-exec/engine/replacer"
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/environ"
-	"github.com/drone/runner-go/logger"
-	"github.com/drone/runner-go/pipeline"
+	"github.com/joseluisq/runner-go/environ"
+	"github.com/joseluisq/runner-go/logger"
+	"github.com/joseluisq/runner-go/pipeline"
 
 	"github.com/hashicorp/go-multierror"
 	"github.com/natessilva/dag"

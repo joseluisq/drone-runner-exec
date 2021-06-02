@@ -7,7 +7,7 @@ package resource
 import (
 	"errors"
 
-	"github.com/drone/runner-go/manifest"
+	"github.com/joseluisq/runner-go/manifest"
 
 	"github.com/buildkite/yaml"
 )

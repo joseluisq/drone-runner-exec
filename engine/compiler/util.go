@@ -10,7 +10,7 @@ import (
 	"github.com/drone-runners/drone-runner-exec/engine"
 	"github.com/drone-runners/drone-runner-exec/engine/resource"
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/manifest"
+	"github.com/joseluisq/runner-go/manifest"
 )
 
 // helper function returns true if the step is configured to

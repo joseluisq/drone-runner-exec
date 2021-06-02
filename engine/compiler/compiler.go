@@ -15,11 +15,11 @@ import (
 	"github.com/drone-runners/drone-runner-exec/engine/resource"
 
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/clone"
-	"github.com/drone/runner-go/environ"
-	"github.com/drone/runner-go/manifest"
-	"github.com/drone/runner-go/secret"
-	"github.com/drone/runner-go/shell"
+	"github.com/joseluisq/runner-go/clone"
+	"github.com/joseluisq/runner-go/environ"
+	"github.com/joseluisq/runner-go/manifest"
+	"github.com/joseluisq/runner-go/secret"
+	"github.com/joseluisq/runner-go/shell"
 
 	"github.com/dchest/uniuri"
 	"github.com/gosimple/slug"

@@ -19,12 +19,12 @@ import (
 
 	"github.com/drone/drone-go/drone"
 	"github.com/drone/envsubst"
-	"github.com/drone/runner-go/client"
-	"github.com/drone/runner-go/environ"
-	"github.com/drone/runner-go/logger"
-	"github.com/drone/runner-go/manifest"
-	"github.com/drone/runner-go/pipeline"
-	"github.com/drone/runner-go/secret"
+	"github.com/joseluisq/runner-go/client"
+	"github.com/joseluisq/runner-go/environ"
+	"github.com/joseluisq/runner-go/logger"
+	"github.com/joseluisq/runner-go/manifest"
+	"github.com/joseluisq/runner-go/pipeline"
+	"github.com/joseluisq/runner-go/secret"
 )
 
 // Runnner runs the pipeline.

@@ -17,8 +17,8 @@ import (
 	"github.com/drone-runners/drone-runner-exec/engine"
 	"github.com/drone-runners/drone-runner-exec/engine/resource"
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/manifest"
-	"github.com/drone/runner-go/secret"
+	"github.com/joseluisq/runner-go/manifest"
+	"github.com/joseluisq/runner-go/secret"
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"

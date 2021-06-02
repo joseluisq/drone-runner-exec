@@ -7,8 +7,8 @@ package mock
 import (
 	context "context"
 	engine "github.com/drone-runners/drone-runner-exec/engine"
-	pipeline "github.com/drone/runner-go/pipeline"
 	gomock "github.com/golang/mock/gomock"
+	pipeline "github.com/joseluisq/runner-go/pipeline"
 	reflect "reflect"
 )
 
