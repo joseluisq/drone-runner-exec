@@ -39,8 +39,8 @@ github.com/hashicorp/go-multierror v1.0.0 h1:iVjPR7a6H0tWELX5NxNe7bYopibicUzc7uP
 github.com/hashicorp/go-multierror v1.0.0/go.mod h1:dHtQlpGsu+cZNNAkkCN/P3hoUDHhCYQXV3UM06sGGrk=
 github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
 github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
-github.com/joseluisq/runner-go v0.0.0-20210602112916-3b0736c02478 h1:GbsllyeYIR6bwXPShJ88d33YVIVO1M1GcyTTrCgBjBI=
-github.com/joseluisq/runner-go v0.0.0-20210602112916-3b0736c02478/go.mod h1:MttT1Ij6/FLymoinSkf19azJiLf3Il6RxeTup6ejw4Y=
+github.com/joseluisq/runner-go v0.0.0-20210602122536-359a64cb9776 h1:6Mu5QzEH/gTaAiOtR/PtTMHCNxNHLViPGhRJsVHy5v4=
+github.com/joseluisq/runner-go v0.0.0-20210602122536-359a64cb9776/go.mod h1:MttT1Ij6/FLymoinSkf19azJiLf3Il6RxeTup6ejw4Y=
 github.com/kardianos/service v1.0.0 h1:HgQS3mFfOlyntWX8Oke98JcJLqt1DBcHR4kxShpYef0=
 github.com/kardianos/service v1.0.0/go.mod h1:8CzDhVuCuugtsHyZoTvsOBuvonN/UDBvl0kH+BUxvbo=
 github.com/kelseyhightower/envconfig v1.3.0 h1:IvRS4f2VcIQy6j4ORGIf9145T/AsUB+oY8LyvN8BXNM=

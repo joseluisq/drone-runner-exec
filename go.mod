@@ -16,7 +16,7 @@ require (
 	github.com/gosimple/slug v1.5.0
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/joho/godotenv v1.3.0
-	github.com/joseluisq/runner-go v0.0.0-20210602112916-3b0736c02478
+	github.com/joseluisq/runner-go v0.0.0-20210602122536-359a64cb9776
 	github.com/kardianos/service v1.0.0
 	github.com/kelseyhightower/envconfig v1.3.0
 	github.com/mattn/go-isatty v0.0.8
